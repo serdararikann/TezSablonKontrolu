@@ -1,0 +1,9 @@
+c:\users\abdullah\documents\visual studio 2013\Projects\Tez Sablon Kontrolu\Tez Sablon Kontrolu\bin\Debug\Tez Sablon Kontrolu.exe.config
+c:\users\abdullah\documents\visual studio 2013\Projects\Tez Sablon Kontrolu\Tez Sablon Kontrolu\bin\Debug\Tez Sablon Kontrolu.exe
+c:\users\abdullah\documents\visual studio 2013\Projects\Tez Sablon Kontrolu\Tez Sablon Kontrolu\bin\Debug\Tez Sablon Kontrolu.pdb
+c:\users\abdullah\documents\visual studio 2013\Projects\Tez Sablon Kontrolu\Tez Sablon Kontrolu\obj\Debug\Tez Sablon Kontrolu.csprojResolveAssemblyReference.cache
+c:\users\abdullah\documents\visual studio 2013\Projects\Tez Sablon Kontrolu\Tez Sablon Kontrolu\obj\Debug\Tez_Sablon_Kontrolu.TezSablon.resources
+c:\users\abdullah\documents\visual studio 2013\Projects\Tez Sablon Kontrolu\Tez Sablon Kontrolu\obj\Debug\Tez_Sablon_Kontrolu.Properties.Resources.resources
+c:\users\abdullah\documents\visual studio 2013\Projects\Tez Sablon Kontrolu\Tez Sablon Kontrolu\obj\Debug\Tez Sablon Kontrolu.csproj.GenerateResource.Cache
+c:\users\abdullah\documents\visual studio 2013\Projects\Tez Sablon Kontrolu\Tez Sablon Kontrolu\obj\Debug\Tez Sablon Kontrolu.exe
+c:\users\abdullah\documents\visual studio 2013\Projects\Tez Sablon Kontrolu\Tez Sablon Kontrolu\obj\Debug\Tez Sablon Kontrolu.pdb
